@@ -5,4 +5,4 @@ Alur fitur login:
 Masukkan email
 Memvalidasi emauil yg masuk
 memvalidasi pasukan
-menampilkan hal beranda
+menampilkan hal home
